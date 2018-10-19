@@ -1,0 +1,1 @@
+window_set_position((browser_width - window_get_width())/2, (browser_height - window_get_height())/2);
